@@ -29,7 +29,11 @@
 
 div{  
     width: 400px;   
-    height: 200px;
+    height: 220px;
     background-color: #fff1b9;
     float:left;
+}
+
+body{
+    font-family:Microsoft JhengHei;
 }
